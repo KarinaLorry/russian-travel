@@ -11,7 +11,6 @@
 @media screen and (max-width: 1023px) {
     .place__paragraph {
         font-size: 16px;
-        line-height: 163%;
         padding-bottom: 27px;
     }
 }
@@ -20,7 +19,6 @@
     .place__paragraph {
         max-width: 288px;
         margin: 0 auto;
-        line-height: 163%;
         padding-bottom: 25px;
     }
 }
